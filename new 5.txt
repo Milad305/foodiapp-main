@@ -1,0 +1,789 @@
+
+
+FractionallySizedBox
+
+
+
+
+https://salamatiman.ir/api/v2/food/categories
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUyNjc0MTU4LCJleHAiOjE2NTI3MTAxNTgsIm5iZiI6MTY1MjY3NDE1OCwianRpIjoiN1lmQXVJSzRLWkFhdDZHdiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.R6rOkPZVTZVwwxjy_e95gxc62SJjzAal4WXXe_jA-So"
+}
+
+
+
+
+
+l0T7ZHaqsju4uH
+
+
+45.195.250.217
+
+
+https://salamatiman.ir/api/v2/food/categories
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUyNjc0MTU4LCJleHAiOjE2NTI3MTAxNTgsIm5iZiI6MTY1MjY3NDE1OCwianRpIjoiN1lmQXVJSzRLWkFhdDZHdiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.R6rOkPZVTZVwwxjy_e95gxc62SJjzAal4WXXe_jA-So"
+}
+
+https://salamatiman.ir/api/v2/record/list
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUyNjA5OTIyLCJleHAiOjE2NTI2NDU5MjIsIm5iZiI6MTY1MjYwOTkyMiwianRpIjoiakRoQnhUcU5hdFc3aGZTUiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.6jQdyKVSGlvPGLdl4nAdv7K41feuRYFk0JJrygT2EsY",
+      "mode":"all",
+      "date": "2022-05-15"
+}
+
+
+
+https://salamatiman.ir/api/v2/food/records
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUyNjc0MTU4LCJleHAiOjE2NTI3MTAxNTgsIm5iZiI6MTY1MjY3NDE1OCwianRpIjoiN1lmQXVJSzRLWkFhdDZHdiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.R6rOkPZVTZVwwxjy_e95gxc62SJjzAal4WXXe_jA-So",
+      "mode":"all",
+      "date": "2022-05-12"
+}
+
+
+
+https://salamatiman.ir/api/v2/favorites/getFoods?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUyNjg0MjcwLCJleHAiOjE2NTI3MjAyNzAsIm5iZiI6MTY1MjY4NDI3MCwianRpIjoickJVU2czc0JSam9kY2lvbiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.GtoYQQLMYfCtqv5pvnSuTWAwMD1LgyGhGZGi_3bILvA
+
+
+
+
+
+
+
+
+https://salamatiman.ir/api/v2/favorites/addFood
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUyNjk1NzQyLCJleHAiOjE2NTI3MzE3NDIsIm5iZiI6MTY1MjY5NTc0MiwianRpIjoiWmVjdUFPUmVqd2RSRmQzRCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.0DhwQ8qtgwjFkV0QNX9QXHuu20OpwcTaLY98Km0GS2M",
+    "fid":"25"
+}
+
+https://salamatiman.ir/api/v2/favorites/toggleFood
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUyNjk1NzQyLCJleHAiOjE2NTI3MzE3NDIsIm5iZiI6MTY1MjY5NTc0MiwianRpIjoiWmVjdUFPUmVqd2RSRmQzRCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.0DhwQ8qtgwjFkV0QNX9QXHuu20OpwcTaLY98Km0GS2M",
+    "fid":"25"
+}
+
+
+
+
+
+
+
+
+
+
+{
+        "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUyODY0ODAwLCJleHAiOjE2NTI5MDA4MDAsIm5iZiI6MTY1Mjg2NDgwMCwianRpIjoiZkRqQ2R3eGFvdlEyTDdqRCIsInN1YiI6IjE0OCIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.iNchtIHAylhoYznhxF_MHbvtj1KJ7V1PVxXD2w-ofz4",
+       "food_id": 6027 ,
+        "portion_id": 14418,
+        "group":1,
+        "count": 10
+}
+
+
+
+
+
+
+
+
+https://salamatiman.ir/api/v2/record/delete
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUzNDY4MzE2LCJleHAiOjE2NTM1MDQzMTYsIm5iZiI6MTY1MzQ2ODMxNiwianRpIjoibkxLUGY1OUJjdlF6c01GZiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.oAQYIDmf2zKBMmc9QisLVS2aTZEXOi-R7f9SCNKJO5E",
+    "rid":1500,
+    "date":"2020-05-05"
+}
+
+
+
+
+
+
+https://salamatiman.ir/api/v2/record/deleteByIds
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUzNTQwNTU5LCJleHAiOjE2NTM1NzY1NTksIm5iZiI6MTY1MzU0MDU1OSwianRpIjoicWVFdDk3eGg1S1B6a2ZwViIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.JzrNVGnN_7rGC7VCB3bdQdUDkJ-b4r9GwErAtDKhL_w",
+    "rids":[1319,1320]
+   
+}
+
+https://salamatiman.ir/api/v2/record/deleteByDate
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUzNTQwNTU5LCJleHAiOjE2NTM1NzY1NTksIm5iZiI6MTY1MzU0MDU1OSwianRpIjoicWVFdDk3eGg1S1B6a2ZwViIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.JzrNVGnN_7rGC7VCB3bdQdUDkJ-b4r9GwErAtDKhL_w",
+   "date": "2022-05-25"
+   
+}
+
+
+
+
+
+https://salamatiman.ir/api/v2/favorites/getFoods
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUzODA4MDIyLCJleHAiOjE2NTM4NDQwMjIsIm5iZiI6MTY1MzgwODAyMiwianRpIjoiT1NQNWVJSHhBSVowSVl3byIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.GVtlIywlJqPV2tORYhL90xF3tuF1qUtlksA4CcydKZE"
+}
+
+
+
+
+
+
+https://salamatiman.ir/api/v2/food/saveWater
+
+{
+        "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUzODk4OTg3LCJleHAiOjE2NTM5MzQ5ODcsIm5iZiI6MTY1Mzg5ODk4NywianRpIjoib3lOa0JUcGJlYXhJV2hOeiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.QlekBEvuOTR1MncPpaJN7hHWIPxEiq2ZMLl4XNQ52pg",
+        "group":1,
+        "count": 10,
+        "datetime" : "2022-05-30 13:15"
+}
+
+
+
+
+
+https://salamatiman.ir/api/v2/food/getWater
+{
+        "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUzODk4OTg3LCJleHAiOjE2NTM5MzQ5ODcsIm5iZiI6MTY1Mzg5ODk4NywianRpIjoib3lOa0JUcGJlYXhJV2hOeiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.QlekBEvuOTR1MncPpaJN7hHWIPxEiq2ZMLl4XNQ52pg",
+        "datetime" : "2022-05-30"
+}
+
+
+
+
+
+https://salamatiman.ir/api/v2/target/update
+
+
+{
+    "nid":1008,
+    "min":1008,
+    "max":1008,
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU0MTU2NzIyLCJleHAiOjE2NTQxOTI3MjIsIm5iZiI6MTY1NDE1NjcyMiwianRpIjoiNjBTZFJpb0RRNkprd1o0ViIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.sm8Kc7spac3848Xnc9KXqGFHvLF0_o8crRn8Fb-tTx0"
+}
+
+
+
+https://docs.flutter.dev/testing/errors
+
+
+
+
+
+https://salamatiman.ir/api/v2/target/updateWeights
+
+{
+
+    "token" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU0NTc1MDIwLCJleHAiOjE2NTQ2MTEwMjAsIm5iZiI6MTY1NDU3NTAyMCwianRpIjoiODZYdXlvOWh3S3dCbDhzcCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.43SAtqvgnnd_mYLojGN_14hddffzgph-6ey0h1c0alg",
+     "weight": 70 ,
+    "weight_target": 78,
+    "weight_target_mode": "reduce",
+    "weight_per_week": 0.2
+	
+}
+reduce  کاهش
+increase  افزایش
+fixed تثبیت
+
+
+
+
+
+https://salamatiman.ir/api/v2/target/GetTargetWeightChartPoints
+
+{
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU0NTc2MDEzLCJleHAiOjE2NTQ2MTIwMTMsIm5iZiI6MTY1NDU3NjAxMywianRpIjoiQVdibFljTmN1bEhTbFpFdiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.RYBdH7cwA6kP1XQ6vti2eyLW49YM_QKu6_VzdTpB0lk",
+     "step":0.2
+
+}
+
+
+
+https://salamatiman.ir/api/v2/report/getDataForWeightLineChart
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU0NTc2NTc2LCJleHAiOjE2NTQ2MTI1NzYsIm5iZiI6MTY1NDU3NjU3NiwianRpIjoiemVCdHM3N0hpdGRIZ1k0eCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.xvQqjtYe342ZI2PnPqp9MIqDtSmKI1wTmEjcv9IMo7Y",
+    "weeks":10
+}
+
+
+
+https://salamatiman.ir/api/v2/report/getWeightChartInfo
+
+{
+    "weight_initial": 60,
+    "weight_target": 78,
+    "weight_target_mode": "reduce",
+    "weight_per_week": 0.2,
+    "values": {
+        "1401/03/16": 75,
+        "1401/03/17": 70
+    }
+}
+
+
+
+
+https://salamatiman.ir/api/v2/report/getWeightChartInfo
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU0NTkxNTA5LCJleHAiOjE2NTQ2Mjc1MDksIm5iZiI6MTY1NDU5MTUwOSwianRpIjoiQmZ1WU9UdWJRMGJYSEFNbiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.ZMNNLKSbElOyAkbyBLyl4Am07JqCJeLvGnoU7wlNG_g",
+    "weeks":5
+
+}
+days
+weeks
+date
+
+
+
+
+
+https://salamatiman.ir/api/v2/exercise/UpdateDailyWalkingRecord
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU0OTIyMDk5LCJleHAiOjE2NTQ5NTgwOTksIm5iZiI6MTY1NDkyMjA5OSwianRpIjoicG1oY1JSQ2tBaGhwTmhWWiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.d8ixBBdhk5FWc-r-PtqAdqVGiNgTH_BnqHhAGeOz4GM",
+    "steps":150
+}
+
+
+https://salamatiman.ir/api/v2/exercise/saveWalkingTarget
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU0OTI5MTQ1LCJleHAiOjE2NTQ5NjUxNDUsIm5iZiI6MTY1NDkyOTE0NSwianRpIjoiZlMzSGdITFpCQVI3d3ZOUiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.UnwOTp0FSAOKTQKjVSDrPAcqxWrvt6zXDrgoMWr3pmQ",
+    "target":5300
+}
+
+
+
+
+https://salamatiman.ir/api/v2/exercise/getWalkingInfo
+
+خروجی
+{
+    "walk_target": 5300,
+    "walk_target_updated_at": "2022-06-11 11:12:33",
+    "today_steps": 5500,
+    "steps_after_target_update": 0,
+    "last_month_steps": {
+        "1401/03/21": 5500
+    }
+}
+https://salamatiman.ir/api/v2/exercise/getWalkingInfo
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU0OTMyMjAxLCJleHAiOjE2NTQ5NjgyMDEsIm5iZiI6MTY1NDkzMjIwMSwianRpIjoibG1nb1hOV20yUzdtQWVjaiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.yWl8Z8bzTZJHClrvCO4jkKimnyv4SdTAQvgJDZ1rx88"
+}
+
+
+
+
+https://salamatiman.ir/api/v2/biometric/index
+
+{
+
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MDk0MTczLCJleHAiOjE2NTUxMzAxNzMsIm5iZiI6MTY1NTA5NDE3MywianRpIjoia1dVUWdNRVlSUkh3S0R5UCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.z6R8wV-EPnsRMfkWVQapCtHUa2PF8uCVEmdRRA4w054"
+}
+
+-------------------
+
+https://salamatiman.ir/api/v2/biometric/getUnits
+
+{
+    "id":5,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MDk0MTczLCJleHAiOjE2NTUxMzAxNzMsIm5iZiI6MTY1NTA5NDE3MywianRpIjoia1dVUWdNRVlSUkh3S0R5UCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.z6R8wV-EPnsRMfkWVQapCtHUa2PF8uCVEmdRRA4w054"
+}
+
+
+https://salamatiman.ir/api/v2/biometric/addRecord
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MDk1NDc5LCJleHAiOjE2NTUxMzE0NzksIm5iZiI6MTY1NTA5NTQ3OSwianRpIjoiN2JCSTBFamxDajJXMnlYcSIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.LgxuFp46haPNIaNzQ0gOwHrczY7ZkJgv6xedC-z92nc",
+    "bid":5,
+    "amount":10,
+    "unit":"°C"
+}
+
+
+
+https://salamatiman.ir/api/v2/biometric/addRecord
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MDk1NDc5LCJleHAiOjE2NTUxMzE0NzksIm5iZiI6MTY1NTA5NTQ3OSwianRpIjoiN2JCSTBFamxDajJXMnlYcSIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.LgxuFp46haPNIaNzQ0gOwHrczY7ZkJgv6xedC-z92nc",
+    "bid":5,
+    "amount":10,
+    "unit":"°C",
+    "app_time": "timestamp in seconds" // not required
+}
+
+
+
+
+https://salamatiman.ir/api/v2/note/addRecord
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MTExOTM1LCJleHAiOjE2NTUxNDc5MzUsIm5iZiI6MTY1NTExMTkzNSwianRpIjoidFRkeEFRZkpCcmtnN0tpZiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.x18FljisQPXQnOp-g9yAFdVCJw0JjfSm23WSH-uJ8es",
+    "content":"یادداشت....."
+}
+
+
+
+
+https://salamatiman.ir/api/v2/note/records
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MTc4NDc4LCJleHAiOjE2NTUyMTQ0NzgsIm5iZiI6MTY1NTE3ODQ3OCwianRpIjoickhwenNUNFNtOHRJd2NPciIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.1VEO3jYNUUS2FY5w0qLMv9d6Pnd9L1mbceTMbtI1FaQ",
+      "date": "2022-06-14" 
+       or "days":10
+       or weeks: 4
+       or start:"2022-06-10" & end: "2022-06-14"
+   
+}
+
+
+https://salamatiman.ir/api/v2/record/deleteByIds
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjUzNTQwNTU5LCJleHAiOjE2NTM1NzY1NTksIm5iZiI6MTY1MzU0MDU1OSwianRpIjoicWVFdDk3eGg1S1B6a2ZwViIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.JzrNVGnN_7rGC7VCB3bdQdUDkJ-b4r9GwErAtDKhL_w",
+    "rids":[1319,1320]
+   
+}
+
+
+
+https://salamatiman.ir/api/v2/note/updateRecord
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MTk0NzQyLCJleHAiOjE2NTUyMzA3NDIsIm5iZiI6MTY1NTE5NDc0MiwianRpIjoiQkV1QklqWHhGVWpFcGhqayIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.u3N6sIDiGTMDcydgziqW9pHlk9VLm4iNK6bco7vgKlU",
+    "rid":2271,
+    "content":"aaadsdsdaaaaa"
+}
+
+
+
+https://salamatiman.ir/api/v2/exercise/list
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MjY1ODc5LCJleHAiOjE2NTUzMDE4NzksIm5iZiI6MTY1NTI2NTg3OSwianRpIjoiS3pRdzVDaFM1eXBQM1FFYiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.-DE2ti0kqkjkOTp4trND6EjLwg_hmYB0Mmb3Zkcj7DQ",
+    "search" : "شنا"
+}
+
+
+
+
+
+
+
+https://salamatiman.ir/api/v2/exercise/list
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MjY1ODc5LCJleHAiOjE2NTUzMDE4NzksIm5iZiI6MTY1NTI2NTg3OSwianRpIjoiS3pRdzVDaFM1eXBQM1FFYiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.-DE2ti0kqkjkOTp4trND6EjLwg_hmYB0Mmb3Zkcj7DQ",
+    "search" : "شنا"
+}
+
+https://salamatiman.ir/api/v2/exercise/getByCid
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MjY1ODc5LCJleHAiOjE2NTUzMDE4NzksIm5iZiI6MTY1NTI2NTg3OSwianRpIjoiS3pRdzVDaFM1eXBQM1FFYiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.-DE2ti0kqkjkOTp4trND6EjLwg_hmYB0Mmb3Zkcj7DQ",
+    "cid":10
+   
+}
+
+https://salamatiman.ir/api/v2/exercise/categories
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MjY1ODc5LCJleHAiOjE2NTUzMDE4NzksIm5iZiI6MTY1NTI2NTg3OSwianRpIjoiS3pRdzVDaFM1eXBQM1FFYiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.-DE2ti0kqkjkOTp4trND6EjLwg_hmYB0Mmb3Zkcj7DQ"
+}
+
+https://salamatiman.ir/api/v2/exercise/records
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MjY5Mjc1LCJleHAiOjE2NTUzMDUyNzUsIm5iZiI6MTY1NTI2OTI3NSwianRpIjoiemJLQlVkekRseXJCT09mYyIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.rVgAnGBeN1HHHTd6IE72i6NbbYLfSabgCl93bGMVKZM",
+     "date": "2022-06-15"
+}
+
+
+
+
+
+
+
+ public static function GetActivityCalories($MET,$minutes,$gender,$height,$weight,$age)
+    {
+
+        $result = self::BMR($gender,$height,$weight,$age)*($MET/24) *$minutes/60;
+        $result = round($result,1);
+        return $result ;
+
+    }
+
+
+  public static function BMR($gender,$height,$weight,$age,$stress=1)
+    {
+      if($gender=="male")
+      {
+         $result = 66.47 + 13.75*$weight + 5*$height  - 6.76*$age*$stress;
+         return $result ;
+      }
+      $result =    655.1 + 9.56*$weight + 1.85*$height- 4.68*$stress;
+      return $result ;
+    }
+	
+	
+	
+	
+	
+	
+	
+https://salamatiman.ir/api/v2/exercise/AddRecord
+
+ {
+     "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1Mjg3OTEwLCJleHAiOjE2NTUzMjM5MTAsIm5iZiI6MTY1NTI4NzkxMCwianRpIjoiRzVJM3U0SDR6ZFZIYzV3OCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.yLH_mjDvS2f8sIpRIjzLplgrc9VuWB4uBSa2s98OduA",
+     "eid":10,
+     "calories":50,
+     "minutes":2
+
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ https://salamatiman.ir/api/v2/biometric/getChartPoints
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MzUzMjExLCJleHAiOjE2NTUzODkyMTEsIm5iZiI6MTY1NTM1MzIxMSwianRpIjoiTENSZVVvNzAzV09NenNCWCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.fB14p2_kSeZIkMbAhy8DhwyDiapi0dGe__NMs7-1BEE",
+    "bid":1,
+    "unit":"kg",
+    "start":"2022-06-10",
+    "end":"2022-06-20"
+
+}
+
+
+
+https://salamatiman.ir/api/v2/report/getCalorieChartPoints
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1MzU3NzU4LCJleHAiOjE2NTUzOTM3NTgsIm5iZiI6MTY1NTM1Nzc1OCwianRpIjoiaFlJS0ZaQ2ZzY2NKNXZGWCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IDTaPKt9wpMZL5iOdV-7lfdvwGv_Bis0TOjoedn6eho",
+     "weeks":2
+
+}
+
+
+
+
+
+https://salamatiman.ir/api/v2/target/GetNutrientScores
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU1NTQ0MjkwLCJleHAiOjE2NTU1ODAyOTAsIm5iZiI6MTY1NTU0NDI5MCwianRpIjoiVDNPUVdPMGJhenI3dWx5NiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.9Rn5KnRdgme8fp5iGCqSpjxQRneHpAlgzIJS4ufh8I4",
+    "weeks":5
+}
+
+
+
+
+
+
+
+SfCartesianChart(
+          primaryXAxis: CategoryAxis(
+            labelRotation: -45,
+            tickPosition: TickPosition.inside,
+            majorTickLines: MajorTickLines(color: Colors.transparent),
+            placeLabelsNearAxisLine: true,
+            labelPlacement: LabelPlacement.onTicks,
+            //autoScrollingDelta: 2,
+          ),
+          primaryYAxis: NumericAxis(
+            majorTickLines: MajorTickLines(color: Colors.transparent),
+            anchorRangeToVisiblePoints: true,
+            //autoScrollingMode: AutoScrollingMode.end,
+          ),
+          series: <ChartSeries<ChartData, String>>[
+            SplineSeries<ChartData, String>(
+                color: Colors.red,
+                dataSource: chartData,
+                xValueMapper: (ChartData data, _) => data.x,
+                yValueMapper: (ChartData data, _) => data.y),
+            ScatterSeries<ChartData, String>(
+              color: Colors.red,
+              borderColor: Colors.red,
+              borderWidth: 3,
+              dataSource: chartData,
+              xValueMapper: (ChartData data, _) => data.x,
+              yValueMapper: (ChartData data, _) => data.y,
+            )
+          ],
+)
+
+
+
+
+https://salamatiman.ir/api/v2/article/index
+{
+"token":""
+}
+
+https://salamatiman.ir/api/v2/article/get
+{
+ "id":1088,
+"token":""
+}
+
+
+
+https://salamatiman.ir:3000/api/v3/user/consultants
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU2MzA4ODk3LCJleHAiOjE2NTYzNDQ4OTcsIm5iZiI6MTY1NjMwODg5NywianRpIjoiU3BJYWtTckRoMW5TbmxRcCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.-Fan-tRdZpO_pqaSo44fzHnYfrShCS3UmFXmsWANeiE"
+
+}
+
+https://salamatiman.ir:3000/api/v3/user/consultant_messages
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU2MzA4ODk3LCJleHAiOjE2NTYzNDQ4OTcsIm5iZiI6MTY1NjMwODg5NywianRpIjoiU3BJYWtTckRoMW5TbmxRcCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.-Fan-tRdZpO_pqaSo44fzHnYfrShCS3UmFXmsWANeiE",
+    "tid":97
+}
+
+
+https://salamatiman.ir:3000/api/v3/user/sendMessage
+
+{
+    "tid" :  97 ,
+    "from" : 5  ,
+    "to" : 111 ,
+    "content" : "salam",
+    "content_type":"text",
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU2MzE1MzIzLCJleHAiOjE2NTYzNTEzMjMsIm5iZiI6MTY1NjMxNTMyMywianRpIjoiWW95N0NEVk9FSDR5c1lkMyIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.sa4QFZsbNoLo-PWvuZBe5Vyztc7j42WAmvckR5gJxn8"
+}
+
+
+https://salamatiman.ir/api/v2/expert/index
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU2NDc1MjEzLCJleHAiOjE2NTY1MTEyMTMsIm5iZiI6MTY1NjQ3NTIxMywianRpIjoiazFRYlRUQkJUdFRHVWw5TCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.bv8-W9PyJTPdB2tZx3sAJJEDUGYXibXcHukjTXhnnb4"
+}
+
+
+
+
+
+https://salamatiman.ir/api/v2/food/saveCustomFood
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU2NzM0NTg1LCJleHAiOjE2NTY3NzA1ODUsIm5iZiI6MTY1NjczNDU4NSwianRpIjoiWmNsMDA0empmd1JFNkVoRiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.Ld5h4GJXsSN0LVhmxOYxyL5S_kQDchICLyEli-vcdQA",
+  "food": {
+      "title":"غذای خوب",
+      "category":10,
+      "notes":"یادداشتتتت"
+  },
+  "uid": 111,
+  "portions":[
+      {
+          "amount":1,
+          "modifier":"قاشق",
+          "gram_weight":2.5
+      }
+  ] ,
+  "nutrients": [
+       {
+          "id":1003,
+          "value":10
+      },
+      {
+          "id":1004,
+          "value":20
+      },
+      {
+          "id":1005,
+          "value":30
+      },
+      {
+          "id":1008,
+          "value":40
+      }
+  ]
+}
+
+
+https://salamatiman.ir/api/v2/food/saveCustomFood
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU2NzM0NTg1LCJleHAiOjE2NTY3NzA1ODUsIm5iZiI6MTY1NjczNDU4NSwianRpIjoiWmNsMDA0empmd1JFNkVoRiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.Ld5h4GJXsSN0LVhmxOYxyL5S_kQDchICLyEli-vcdQA",
+  "food": {
+      "title":"غذای خوب",
+      "category":10,
+      "notes":"یادداشتتتت"
+  },
+
+  "portions":[
+      {
+          "amount":1,//همیشه 1 باشد
+          "modifier":"قاشق",
+          "gram_weight":2.5
+      }
+  ] ,
+  "nutrients": [
+       {
+          "id":1003,
+          "value":10
+      },
+      {
+          "id":1004,
+          "value":20
+      },
+      {
+          "id":1005,
+          "value":30
+      },
+      {
+          "id":1008,
+          "value":40
+      }
+  ]
+}
+
+
+
+// class MyChartWidget extends StatelessWidget {
+//   const MyChartWidget({Key? key}) : super(key: key);
+//
+//   @override
+//   Widget build(BuildContext context) {
+//     final List<ChartData> chartData = [
+//       ChartData("2s", 15),
+//       ChartData("3s", 0),
+//       ChartData("4s", 15),
+//     ];
+//
+//     return Container(
+//       margin: EdgeInsets.only(top: 100),
+//       height: 200,
+//       child: SfCartesianChart(
+//           primaryXAxis: CategoryAxis(
+//             labelRotation: -45,
+//             tickPosition: TickPosition.inside,
+//             majorTickLines: MajorTickLines(color: Colors.transparent),
+//             placeLabelsNearAxisLine: true,
+//             labelPlacement: LabelPlacement.onTicks,
+//             labelStyle: TextStyle(fontFamily: Constants.primaryFontFamilyAdad),
+//             //autoScrollingDelta: 2,
+//           ),
+//           primaryYAxis: NumericAxis(
+//             majorTickLines: MajorTickLines(color: Colors.transparent),
+//             labelStyle: TextStyle(fontFamily: Constants.primaryFontFamilyAdad),
+//             anchorRangeToVisiblePoints: true,
+//             //autoScrollingMode: AutoScrollingMode.end,
+//           ),
+//           series: <ChartSeries<ChartData, String>>[
+//             SplineSeries<ChartData, String>(
+//                 color: Colors.red,
+//                 dataSource: chartData,
+//                 xValueMapper: (ChartData data, _) => data.x,
+//                 yValueMapper: (ChartData data, _) => data.y),
+//             ScatterSeries<ChartData, String>(
+//               color: Colors.red,
+//               borderColor: Colors.red,
+//               borderWidth: 3,
+//               dataSource: chartData,
+//               xValueMapper: (ChartData data, _) => data.x,
+//               yValueMapper: (ChartData data, _) => data.y,
+//             )
+//           ]),
+//     );
+//   }
+// }
+//
+// class ChartData {
+//   ChartData(this.x, this.y);
+//   final String x;
+//   final double y;
+// }
+
+
+
+
+
+UpdateDailyWalkingRecord
+
+
+
+https://api.salamatiman.ir/api/node/start
+https://api.salamatiman.ir/api/node/stop
+https://api.salamatiman.ir/api/node/restart
+
+
+
+https://api.salamatiman.ir/api/v2/plan/offs
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5zYWxhbWF0aW1hbi5pci9hcGkvdjIvYXV0aC9sb2dpbiIsImlhdCI6MTY1Nzk1MzU1MCwiZXhwIjoxNjU3OTg5NTUwLCJuYmYiOjE2NTc5NTM1NTAsImp0aSI6ImdxYmQwZnpLNWFaNVpOWkwiLCJzdWIiOiIxMTEiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.meOjhZxaC--bbEMusB7CVLR0pBfhkCUOGKH91izka0c"
+}
+
+
+https://salamatiman.ir/api/v2/common/logError
+
+{
+    "msg":"error message",
+    "uid":5,
+    "version": 1.1,
+    "device": "samsung ...",
+    "os": "android 6",
+    "path": "file , activity , widget ... ",
+    "description": "more info... ",
+	"manual":0
+}
+
+
+
+
+
+https://salamatiman.ir/api/v2/user/update
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjU4Mjk3NTE4LCJleHAiOjE2NTgzMzM1MTgsIm5iZiI6MTY1ODI5NzUxOCwianRpIjoibDBpUkhYamVDV0kyY29qYiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.r6fk-w-fFQXTk-XvirAX0WIxszEJlVctNOOgRL1GK3g",
+    "field_name":"name",
+    "field_value":"وحید"
+}
+
+
+https://api.salamatiman.ir/api/v2/ads/index
+https://api.salamatiman.ir/api/v2/ads/app
+
+
+
+
+
+salamatiman.ir/api/v2/wallet/charge?gateway=pay&amount=10000&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjYwMzYyNzg2LCJleHAiOjE2NjI5NTQ3ODYsIm5iZiI6MTY2MDM2Mjc4NiwianRpIjoiUmJ1UE5CWm5jRjJwYmxtNyIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.k5xx9pCxpdS3XHVhnkNJeFsx66wVl5zdFsG2qdNaL7s#F48
+
+
+
+
+
+https://salamatiman.ir/api/v2/report/getPfcChartPoints
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjYwMzc3NjM2LCJleHAiOjE2NjI5Njk2MzYsIm5iZiI6MTY2MDM3NzYzNiwianRpIjoiNTBObWtKUGRqM2g0dmNTdCIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.FFakUhWwREEbhFSc2NlXSPIUfcJ1knCmVVmMQ0ZaKYk",
+    "mode": "all/none_empty",
+    "days/weeks": 1
+}
+
+
+
+https://salamatiman.ir/api/v2/article/search?q=%D8%B3%DB%8C%D8%A8&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NhbGFtYXRpbWFuLmlyL2FwaS92Mi9hdXRoL2xvZ2luIiwiaWF0IjoxNjYwNzA4NDE1LCJleHAiOjE2NjMzMDA0MTUsIm5iZiI6MTY2MDcwODQxNSwianRpIjoiYUdHb20wMFN6THNXbEZwdiIsInN1YiI6IjExMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.nH0O7wXiuNz9iMLsegn_cqZorf3ufH3dPvhnp7VkFcw
+
+
+
+
+
+

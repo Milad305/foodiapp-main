@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30578763-dd90-48e5-9d9c-7ba3c164caf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/getx/food/foods.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/getx/food/foods.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/getx/food/my_fav_food_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/getx/food/my_fav_food_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/food/food-model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/food/food-model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/service/foods/foods.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/service/foods/foods.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/biometric/biometric-insert.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/biometric/biometric-insert.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/food/custom-recipes/custom-recipes-add-main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/food/custom-recipes/custom-recipes-add-main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/food/food-category.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/food/food-category.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/food/meal-main/all_foods/all_foods.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/food/meal-main/all_foods/all_foods.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/food/meal-main/food-empty.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/food/meal-main/food-empty.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/food/save-food/save-food.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/food/save-food/save-food.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/food/serach-box-food.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/food/serach-box-food.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_page/children.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_page/children.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_page/drawer_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_page/drawer_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/no-internet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/no-internet.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/report-card/report-card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/report-card/report-card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/report-card/report-weeks-average.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/report-card/report-weeks-average.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DartProblemsView" scoped-analysis-mode="DartPackage" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="28EBxBIADMK4rWdEPrp2OJodrXu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_4_API_29 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="ir.salamatiman.app" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../android/sdkNew" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="D:/flutter/ttest" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bcz\Desktop\salamatiman\lib\widgets" />
+      <recent name="E:\salamatiman\lib\view\chat\chat-tile" />
+      <recent name="E:\salamatiman\lib\widgets" />
+      <recent name="E:\salamatiman\lib\widgets\pull_to_refresh" />
+      <recent name="E:\salamatiman\lib\view\blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\salamatiman\lib\view\chat" />
+      <recent name="E:\salamatiman\lib\utils" />
+      <recent name="E:\salamatiman\lib\view\food" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30578763-dd90-48e5-9d9c-7ba3c164caf2" name="Default Changelist" comment="" />
+      <created>1650772109762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650772109762</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
